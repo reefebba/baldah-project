@@ -58,8 +58,8 @@ Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya
     * Hal lain yang dibutuhkan ummat
     * Pendanaan dari BMT
 * ### Credit
-    * [Konferensi Masjid Indonesia] (https://konferensimasjid.com/2018/12/15/9-langkah-membangun-masjid-berdaya/)
-    * [FB Rendy Saputra] (https://m.facebook.com/story.php?story_fbid=2165387087078864&id=100008227817040)
+    * [Konferensi Masjid Indonesia](https://konferensimasjid.com/2018/12/15/9-langkah-membangun-masjid-berdaya/)
+    * [FB Rendy Saputra](https://m.facebook.com/story.php?story_fbid=2165387087078864&id=100008227817040)
 ## BMT
 * ### Kepengurusan
     * milik umat muslim setempat
@@ -76,7 +76,7 @@ Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya
     * Solusi sesuai syariah, mengikuti arahan ulama' untuk hajat dan maslahat muslimin
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 * ### Credit
-    * [uang yg mengusir pemiliknya] (http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
+    * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
     * []
 ## Guild
 * ### Credit
