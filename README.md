@@ -143,7 +143,8 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 * Mendukung semua Platform dari ummat yang bertujuan mashlahat lebih besar dan inkaar produk ribawi
 
 ## Penutup
-Dari pemaparan singkat diatas, dan rancangan yang jauh dari sempurna ini kami berharap untuk diajarkan dan diingatkan dari praktik kedzhaliman, pelanggaran syariat, serta kritk dan saran ke email project.baldah@gmail.com 
+Dari pemaparan singkat diatas, dan rancangan yang jauh dari sempurna ini kami berharap untuk diajarkan dan diingatkan dari praktik kedzhaliman, pelanggaran syariat, serta kritk dan saran ke email: project.baldah@gmail.com 
+
 Kami berharap Allah berikan ummat taufiq untuk menerapkannya jika memang ada baiknya untuk diin, dunya, dan akhirat.
 Kami memohon kepada Allah agar menunjuki kami dan ummat kebenaran dan memberi kami dan ummat rezeki untuk mengikutinya
 Kami memohon kepada Allah agar menunjuki kami dan ummat kebathilan dan memberi kami dan ummat rezeki untuk menjauhinya
