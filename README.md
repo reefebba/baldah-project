@@ -134,7 +134,7 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
       * browse users dan projects dan follow users atau project
       * contribute ke project user lain, mengajukan issue atau fork public project seperti github
       * beri apresiasi seperti star/like dan recommend ke follower/friends
-   * Mengubah orientasi status yang tidak produktif menjadi karya dan diskusi merealisasikan
+   * Mengubah orientasi status yang tidak produktif menjadi karya dan diskusi untuk merealisasikan ide
    * Melawan hoaks dan pemalsuan karena creator & contributors terlacak
 * Platform marketplace yang sehat dan bersih dari transaksi terlarang
    * Sebutlah untuk sekarang namanya "Suuq baldah"
