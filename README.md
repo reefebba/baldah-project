@@ -78,6 +78,7 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
     * Solusi sesuai syariah, mengikuti arahan ulama' untuk hajat dan maslahat muslimin
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 * ### Credit
+    * [bmt](https://www.hestanto.web.id/bmt/)
     * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
     * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
     * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
