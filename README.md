@@ -74,10 +74,13 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
     * Menerima zakat agniyaa' muslimin untuk mustahiq setempat terlebih dahulu, manage sesuai ketentuan syariat
     * Menerima hibah dan wakaf dan menyalurkannya dengan bijak dan produktif.
 * ### Bank, Asuransi Syariah | Tamwiil
-    * Menerima tabungan ummat untuk dikembangkan
+    * Memilah nasabah yang ingin:
+         * hanya menyimpan uang, aqd qardh, BMT berhak mengolah dana tersebut yang keuntungannya 100% milik BMT, dan tidak memberi nasabah keuntungan apapun, kecuali mengembalikannya ketika diminta/ditarik
+         * berinvestasi, aqd mudhoorobah, BMT hanya menerima dari dan membagi hasil untung dan rugi ke nasabah yang uangnya benar-benar tersalurkan ke usaha riil milik BMT, cth: guild, dan jika usaha tsb bukan milik BMT maka BMT hanya menjadi wakil dan tidak mengambil keuntungan apapun
     * Solusi sesuai syariah, mengikuti arahan ulama' untuk hajat dan maslahat muslimin
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 * ### Credit
+    * [mencari solusi bank syari'ah](https://almanhaj.or.id/2599-mencari-solusi-bank-syariah.html)
     * [bmt](https://www.hestanto.web.id/bmt/)
     * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
     * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
