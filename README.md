@@ -23,7 +23,7 @@ Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya
 Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 * ### Kepengurusan
     * memiliki kepengurusan yang komitmen dan fokus
-    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila dan perlu meluruskan pengurus dan ummat
+    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
     * pengurus dengan organisasi profesional sesuai kebutuhan
     * pengurus berusaha semaksimal mungkin melayani ummat
     * pengurus mendapat tunjangan dari BMT
@@ -49,7 +49,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
         * Dauroh maudhuu'iyyah berkala seperti: workshop fiqh zakat dalam 2 hari, dsb dengan target jamaah berbeda
     * Menyampaikan ilmu kepada jamaah dengan pendekatan yang sesuai
     * Mengembangkan lingkungan ilmiah
-    * Menyerap da'i - da'i mumpuni, cth: lulusan arab
+    * Menyerap da'i - da'i mumpuni, cth: lulusan islamic universities negara-negara arab
     * Pengajar mendapat tunjangan dari BMT
 * ### Khidmah Umat
     * mendata jama'ah yang berada dalam lingkupnya:
@@ -65,7 +65,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzhaliman, riba dan gharar yang diharamkan
 * ### Kepengurusan
     * milik umat muslim setempat
-    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila dan perlu meluruskan pengurus dan ummat
+    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
     * memiliki kepengurusan yang profesional sebagai executive
 
 * ### LAZIS | Maal
@@ -90,7 +90,7 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
 ## Guild
 Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pasar
 * milik umat muslim setempat
-* majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila dan perlu meluruskan pengurus dan ummat
+* majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
 * memiliki kepengurusan yang profesional sebagai executive
 * Pendanaan dari BMT (initialisasi, mudhoorobah, syirkah)
 * Pendanaan mandiri
@@ -120,7 +120,7 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
    * penyesuaian di lapangan, cth: karena belum memiliki izin untuk menjadi lembaga amil zakat, maka BMT tidak perlu menyimpan dana jama'ah, seluruh jama'ah cukup datang dengan info zakatnya dulu, BMT kemudian mengarahkan A memberikan B sekian, C sekian, berdasarkan data mustahiq zakat dari Masjid agar tetap rata dan menyeluruh.
    * koordinasi dan saling mengingatkan jika terjadi salah praktik
    * bisa dengan membuat group chat untuk aliansi masjid-masjid yang juga berusaha menerapkan sistem ini.
-   * namun untuk mashlahat yang lebih besar kami usulkan platform independen "isnaad" dikembangkan gaya open-source namun lisensinya dijaga disponsori aliansi BMT.
+   * namun untuk mashlahat yang lebih besar kami usulkan platform independent "project-book" dikembangkan gaya open-source namun lisensinya dijaga disponsori aliansi BMT.
 * Ketika distributed system ini meluas dan menguat maka perlu dibentuk aliansi yang bisa disupport teknologi:
    * untuk ta'aawun alal birr wat taqwaa, cth: aliansi masjid se-kecamatan, se-kota, se-provinsi, se-negara
    * agar aliansi BMT bisa mengalahkan jaringan ribawi dan memberikan pelayanan yang tidak kalah dengan bank dan platform fintech lainnya
@@ -128,7 +128,7 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 * ### Berdaya dalam teknologi
 * Open-source: mudahnya, yang source code programnya dipublish, biasanya menerima kontribusi dari siapapun dalam bentuk kritik, saran, memperbaiki dan mengembangkan source code programnya, bisa dikembangkan sendiri dan digunakan untuk komersil mengacu pada yang didefinisikan dalam lisensi
 * Platform yang menggantikan atau menggabungkan fungsionalitas: Facebook, Instagram, Medium, Github
-   * Sebutlah untuk sekarang namanya "Isnaad"  
+   * Sebutlah untuk sekarang namanya "project-book"  
    * User tidak membuat status melainkan project.
    * Project ada yang public dan ada yang private untuk independent team
    * Dalam project user bisa membuat:
@@ -150,7 +150,7 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 Dari pemaparan singkat diatas, dan rancangan yang jauh dari sempurna ini kami berharap untuk diajarkan dan diingatkan dari praktik kedzhaliman, pelanggaran syariat, serta kritk dan saran ke email: project.baldah@gmail.com 
 
 Kami berharap Allah berikan ummat taufiq untuk menerapkannya jika memang ada baiknya untuk diin, dunya, dan akhirat.
-Kami memohon kepada Allah agar menunjuki kami dan ummat kebenaran dan memberi kami dan ummat rezeki untuk mengikutinya
-Kami memohon kepada Allah agar menunjuki kami dan ummat kebathilan dan memberi kami dan ummat rezeki untuk menjauhinya
-Hanya Allah yang memberi taufik dan petunjuk. Segala puji bagi Allah yang dengan segala nikmatnya setiap kebaikan jadi sempurna.
+Kami memohon kepada Allah agar menunjuki kami dan ummat kebenaran dan memberi kami dan ummat rezeki untuk mengikutinya.
+Kami memohon kepada Allah agar menunjuki kami dan ummat kebathilan dan memberi kami dan ummat rezeki untuk menjauhinya.
+Hanya Allah yang memberi taufik dan petunjuk. Segala puji bagi Allah yang dengan segala nikmatnya sempurnalah kebaikan.
 
