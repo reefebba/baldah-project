@@ -1,5 +1,5 @@
 # **Baldah Project**
-# Halaman ini mungkin tidak akan terus diupdate, Silahkan mengunjungi https://baldah-project.netlify.com/ 
+# Halaman ini mungkin tidak akan terus diupdate, Silahkan mengunjungi [https://baldah-project.netlify.com/](https://baldah-project.netlify.com/) 
 
 ## Muqoddimah
 الـحَمْدُ للهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللهِ وَعَلَى آلِهِ وَصَحْبِهِ وَمَنْ وَالَاهَ ، أَمَّا بَعْدُ
@@ -184,5 +184,5 @@ Kami memohon kepada Allah agar menunjuki kami dan ummat kebenaran dan memberi ka
 Kami memohon kepada Allah agar menunjuki kami dan ummat kebathilan dan memberi kami dan ummat rezeki untuk menjauhinya.
 Hanya Allah yang memberi taufik dan petunjuk. Segala puji bagi Allah yang dengan segala nikmatnya sempurnalah kebaikan.
 
-# Halaman ini mungkin tidak akan terus diupdate, Silahkan mengunjungi https://baldah-project.netlify.com/ 
+# Halaman ini mungkin tidak akan terus diupdate, Silahkan mengunjungi [https://baldah-project.netlify.com/](https://baldah-project.netlify.com/)
 
