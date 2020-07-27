@@ -4,7 +4,7 @@
 ## _Muqoddimah_
 الـحَمْدُ للهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللهِ وَعَلَى آلِهِ وَصَحْبِهِ وَمَنْ وَالَاهَ ، أَمَّا بَعْدُ
 
-Tidak berada dalam kerugian kecuali yang beriman, beramal sholeh, saling berwasiat kebaikan serta saling berwasiat kesabaran
+Tidak keluar dari kerugian kecuali yang beriman, beramal sholeh, saling berwasiat kebaikan serta saling berwasiat kesabaran
 
 Dunia ini terlaknat kecuali _dzikrullaah_, apa yang menjadi wasilah dan menyokong dzikr, orang berilmu dan yang terus belajar
 
